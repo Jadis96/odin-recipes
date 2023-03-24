@@ -1,0 +1,16 @@
+body {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+
+h1 {color: rgb(199, 236, 62);
+background-color:slategrey;
+text-align: center;
+}
+
+h2 {color:bisque;
+    background-color:rgb(15, 27, 185);
+    text-align: center
+
+}
+
+button, li {font-size: 38px;
+
+}
